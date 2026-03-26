@@ -10,6 +10,6 @@
     "./base.json": "./base.json",
     "./react.json": "./react.json",
     "./vite.json": "./vite.json",
-    "./web.json": "./web.json"
+    "./web-app.json": "./web-app.json"
   }
 }
